@@ -26,7 +26,11 @@ Estoy aprendiendo y desarrollando soluciones de software mediante proyectos acad
 - Fortaleciendo mis habilidades de programación.
 - Desarrollando proyectos de software.
 - Aprendiendo nuevas tecnologías y buenas prácticas.
+## Mi espacio de programación
 
+![Silvana programando](./silvana-pixel-art-github.gif)
+
+---
 ---
 
 *Aprender, construir y mejorar una solución a la vez.*
