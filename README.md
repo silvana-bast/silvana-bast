@@ -27,8 +27,8 @@ Estoy aprendiendo y desarrollando soluciones de software mediante proyectos acad
 - Desarrollando proyectos de software.
 - Aprendiendo nuevas tecnologías y buenas prácticas.
 ## Mi espacio de programación
+![Silvana programando](./Programando%20bajo%20la%20luz%20de%20la%20luna.png)
 
-## Mi espacio de programación
 
 
 
