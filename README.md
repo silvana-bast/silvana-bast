@@ -1,4 +1,4 @@
-# Hola, soy Silvana
+# Hola!, soy Silvana Bastida
 
 ### Estudiante de Ingeniería en Informática | Desarrolladora en formación
 
