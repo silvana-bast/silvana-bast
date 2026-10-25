@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Hola,%20soy%20Silvana%20C%C3%B3digo%20bajo%20la%20luna.png" width="100%" alt="Banner de Silvana" />
+  <img src="./Hola, soy Silvana Código bajo la luna.png" width="100%" alt="Banner de Silvana">
 </p>
 
 ### Tecnologías y herramientas
