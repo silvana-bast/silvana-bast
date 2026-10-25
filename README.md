@@ -1,8 +1,6 @@
-# Hola!, soy Silvana Bastida
-
-### Estudiante de Ingeniería en Informática | Desarrolladora en formación
-
-Estoy aprendiendo y desarrollando soluciones de software mediante proyectos académicos y personales. Me interesa el desarrollo web, la programación backend, las bases de datos y la tecnología aplicada a la educación.
+<p align="center">
+  <img src="./NOMBRE-DEL-BANNER.png" width="100%" alt="Banner de Silvana" />
+</p>
 
 ### Tecnologías y herramientas
 
@@ -26,8 +24,7 @@ Estoy aprendiendo y desarrollando soluciones de software mediante proyectos acad
 - Fortaleciendo mis habilidades de programación.
 - Desarrollando proyectos de software.
 - Aprendiendo nuevas tecnologías y buenas prácticas.
-## Mi espacio de programación
-<img src="./Programando%20bajo%20la%20luz%20de%20la%20luna.png" width="600" alt="Silvana programando" />
+
 
 
 
